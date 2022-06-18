@@ -1,6 +1,6 @@
 # Tavolata
-Diplomarbeit HFIAD19
-Nina Diem
+Diplomarbeit HFIAD19 <br />
+Nina Diem <br />
 Schule für Gestaltung Zürich
 
 ## Prozessdokumentation
